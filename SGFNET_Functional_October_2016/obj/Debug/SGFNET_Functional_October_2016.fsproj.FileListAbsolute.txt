@@ -1,0 +1,12 @@
+C:\Users\Wesley\documents\visual studio 2015\Projects\SGFNET_Functional_October_2016\SGFNET_Functional_October_2016\bin\Debug\SGFNET_Functional_October_2016.exe.config
+C:\Users\Wesley\documents\visual studio 2015\Projects\SGFNET_Functional_October_2016\SGFNET_Functional_October_2016\bin\Debug\SGFNET_Functional_October_2016.XML
+C:\Users\Wesley\documents\visual studio 2015\Projects\SGFNET_Functional_October_2016\SGFNET_Functional_October_2016\bin\Debug\SGFNET_Functional_October_2016.exe
+C:\Users\Wesley\documents\visual studio 2015\Projects\SGFNET_Functional_October_2016\SGFNET_Functional_October_2016\bin\Debug\SGFNET_Functional_October_2016.pdb
+C:\Users\Wesley\documents\visual studio 2015\Projects\SGFNET_Functional_October_2016\SGFNET_Functional_October_2016\bin\Debug\FSharp.Core.dll
+C:\Users\Wesley\documents\visual studio 2015\Projects\SGFNET_Functional_October_2016\SGFNET_Functional_October_2016\bin\Debug\FSharp.Data.dll
+C:\Users\Wesley\documents\visual studio 2015\Projects\SGFNET_Functional_October_2016\SGFNET_Functional_October_2016\bin\Debug\FSharp.Data.pdb
+C:\Users\Wesley\documents\visual studio 2015\Projects\SGFNET_Functional_October_2016\SGFNET_Functional_October_2016\bin\Debug\FSharp.Data.xml
+C:\Users\Wesley\documents\visual studio 2015\Projects\SGFNET_Functional_October_2016\SGFNET_Functional_October_2016\bin\Debug\FSharp.Core.xml
+C:\Users\Wesley\documents\visual studio 2015\Projects\SGFNET_Functional_October_2016\SGFNET_Functional_October_2016\obj\Debug\SGFNET_Functional_October_2016.fsproj.SGFNET_Functional_October_2016.exe.config
+C:\Users\Wesley\documents\visual studio 2015\Projects\SGFNET_Functional_October_2016\SGFNET_Functional_October_2016\obj\Debug\SGFNET_Functional_October_2016.exe
+C:\Users\Wesley\documents\visual studio 2015\Projects\SGFNET_Functional_October_2016\SGFNET_Functional_October_2016\obj\Debug\SGFNET_Functional_October_2016.pdb
